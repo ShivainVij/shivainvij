@@ -4,7 +4,7 @@
 
 I'm a **Machine Learning Engineering Intern at [Baseten](https://www.baseten.co/)**, currently wrapping up my final year in **Mechatronics Engineering at the University of Waterloo**. I’m based in **San Francisco**, where I work on building real-world ML systems that scale.
 
-I'm passionate about **AI, ML infrastructure**, and hacking on tools that turn research into products. I love applying cutting-edge models to messy, high-stakes real-world problems.
+I'm passionate about **AI and ML**, and hacking on tools that turn research into products. I love applying cutting-edge models to messy, high-stakes real-world problems.
 
 Most of my projects live in private repos—I'm constantly prototyping in production and building behind the scenes 🕶️.
 
@@ -28,6 +28,4 @@ Most of my projects live in private repos—I'm constantly prototyping in produc
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivainvij&theme=dark&hide_border=false)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shivainvij&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
