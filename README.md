@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Shivain Vij</h1>
 
-<p align="center">🧠 Machine Learning Engineer · 🎓 Mechatronics @ Waterloo · 🛠 Side Hustler</p>
+<p align="center">🧠 Machine Learning Engineer · 🎓 Mechatronics @ UWaterloo</p>
 
 I'm a **Machine Learning Engineering Intern at [Baseten](https://www.baseten.co/)**, currently wrapping up my final year in **Mechatronics Engineering at the University of Waterloo**. I’m based in **San Francisco**, where I work on building real-world ML systems that scale.
 
