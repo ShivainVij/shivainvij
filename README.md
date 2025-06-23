@@ -4,7 +4,7 @@
 
 I'm a **Machine Learning Engineering Intern at [Baseten](https://www.baseten.co/)**, currently wrapping up my final year in **Mechatronics Engineering at the University of Waterloo**. I’m based in **San Francisco**, where I work on building real-world ML systems that scale.
 
-I'm passionate about **AI and ML**, and hacking on tools that turn research into products. I love applying cutting-edge models to messy, high-stakes real-world problems.
+I'm experienced in building ML systems end-to-end. That means going from idea to API. I know how to curate datasets, clean them, choose models, train them, modify them, quantize them, and deploy them. I'm a one-stop-shop for anything ML.
 
 Most of my projects live in private repos—I'm constantly prototyping in production and building behind the scenes 🕶️.
 
